@@ -1,4 +1,4 @@
-package com.cursor.Collections;
+package com.cursor.сollections;
 
 import java.util.ArrayList;
 import java.util.Collections;
