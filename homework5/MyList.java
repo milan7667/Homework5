@@ -10,7 +10,7 @@ public class MyList<T extends Comparable<T>> {
         getSmallestValue();
     }
 
-    public void toAddElementtoList() {
+    public void addElementToList() {
             List<T> MyList = new ArrayList<>();
         MyList.add(T t1);
         MyList.add(T t2);
