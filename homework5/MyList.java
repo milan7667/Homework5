@@ -1,4 +1,4 @@
-package com.cursor.homework5;
+package com.cursor.Collections;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,7 +10,7 @@ public class MyList<T extends Comparable<T>> {
         getSmallestValue();
     }
 
-    public void toAdd() {
+    public void toAddElementtoList() {
             List<T> MyList = new ArrayList<>();
         MyList.add(T t1);
         MyList.add(T t2);
